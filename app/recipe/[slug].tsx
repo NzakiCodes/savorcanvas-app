@@ -17,7 +17,7 @@ export default function Recipe() {
   },[])
   return (
     <SafeAreaView>
-      <View className="py-2 bg-red-400">
+      <View className="py-2 bg-white">
 
       </View>
       <ScrollView className="">
